@@ -47,7 +47,7 @@ public:
 int main()
 {
     Vehicle* c1 = new Car();
-    //inheritance = IS-A relationship          audi IS A car
+    //inheritance = IS-A relationship          audi IS A car haha
     //object composition = HAS-A relationship  audi HAS AN engine
 }
 
